@@ -40,3 +40,4 @@ C:\Users\shyam\Source\Repos\sattiganal\MSBAIS_GROUP3_MVC\Group3MVCApp\obj\Debug\
 C:\Users\shyam\Source\Repos\sattiganal\MSBAIS_GROUP3_MVC\Group3MVCApp\obj\Debug\netcoreapp3.1\Group3MVCApp.genruntimeconfig.cache
 C:\Users\shyam\Source\Repos\sattiganal\MSBAIS_GROUP3_MVC\Group3MVCApp\obj\Debug\netcoreapp3.1\Group3MVCApp.csproj.CopyComplete
 C:\Users\shyam\Source\Repos\sattiganal\MSBAIS_GROUP3_MVC\Group3MVCApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\shyam\Source\Repos\sattiganal\MSBAIS_GROUP3_MVC\Group3MVCApp\obj\Debug\netcoreapp3.1\Razor\Views\Input\Name.cshtml.g.cs

@@ -18,8 +18,9 @@ namespace Group3MVCApp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(String id)
         {
+            ViewData["uName"] = id;
             return View();
         }
 

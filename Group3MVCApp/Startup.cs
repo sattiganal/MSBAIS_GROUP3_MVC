@@ -51,6 +51,10 @@ namespace Group3MVCApp
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+                endpoints.MapControllerRoute(
+                    name: "askUser",
+                    pattern: "{controller=Input}/{action=Name}/{id?}");
             });
         }
     }
