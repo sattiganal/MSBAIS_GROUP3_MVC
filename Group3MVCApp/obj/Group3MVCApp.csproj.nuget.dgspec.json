@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Venkat\\Source\\Repos\\sattiganal\\MSBAIS_GROUP3_MVC\\Group3MVCApp\\Group3MVCApp.csproj": {}
+    "C:\\Users\\Hammo\\Source\\Repos\\MSBAIS_GROUP3_MVC3\\Group3MVCApp\\Group3MVCApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Venkat\\Source\\Repos\\sattiganal\\MSBAIS_GROUP3_MVC\\Group3MVCApp\\Group3MVCApp.csproj": {
+    "C:\\Users\\Hammo\\Source\\Repos\\MSBAIS_GROUP3_MVC3\\Group3MVCApp\\Group3MVCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venkat\\Source\\Repos\\sattiganal\\MSBAIS_GROUP3_MVC\\Group3MVCApp\\Group3MVCApp.csproj",
+        "projectUniqueName": "C:\\Users\\Hammo\\Source\\Repos\\MSBAIS_GROUP3_MVC3\\Group3MVCApp\\Group3MVCApp.csproj",
         "projectName": "Group3MVCApp",
-        "projectPath": "C:\\Users\\Venkat\\Source\\Repos\\sattiganal\\MSBAIS_GROUP3_MVC\\Group3MVCApp\\Group3MVCApp.csproj",
-        "packagesPath": "C:\\Users\\Venkat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venkat\\Source\\Repos\\sattiganal\\MSBAIS_GROUP3_MVC\\Group3MVCApp\\obj\\",
+        "projectPath": "C:\\Users\\Hammo\\Source\\Repos\\MSBAIS_GROUP3_MVC3\\Group3MVCApp\\Group3MVCApp.csproj",
+        "packagesPath": "C:\\Users\\Hammo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hammo\\Source\\Repos\\MSBAIS_GROUP3_MVC3\\Group3MVCApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Venkat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hammo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
